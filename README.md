@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vishal Chauhan</h1>
 <h3 align="center">A passionate Full stack web developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/5c/8f/08/5c8f08b5fe55e12baae6fc54e46c343a.gif">
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishal-chauhan07&label=Profile%20views&color=0e75b6&style=flat" alt="vishal-chauhan07" /> </p>
 
 - 📫 How to reach me **vishalc7902@gmail.com**
